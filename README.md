@@ -19,5 +19,5 @@ Le Visionneur Shadertoy est une application Android développée en Java avec An
 - **Retrofit** : Pour gérer les requêtes réseau vers l'API Shadertoy.
 
 ### Auteurs
-
 @IbrahimHarcha
+@Jean-Eude
